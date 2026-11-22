@@ -286,7 +286,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/pydantic/main.py"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/8fc75a228489c1ccd44ef91aaafcaf7dfe15af2b/chunk-001.nq.gz",
+      "dep": "dep/8fc75a228489c1ccd44ef91aaafcaf7dfe15af2b.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
