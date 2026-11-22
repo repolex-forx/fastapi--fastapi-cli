@@ -3,6 +3,11 @@
   "repo": "fastapi-cli",
   "versions": [
     {
+      "commit": "8fc75a228489c1ccd44ef91aaafcaf7dfe15af2b",
+      "tag": "0.0.24",
+      "parsed_at": "2026-11-22T06:19:28.248346+00:00"
+    },
+    {
       "commit": "093be9ca19f2ef44ba523aae0a98d6c9ea2e0888",
       "tag": "",
       "parsed_at": "2026-10-10T23:04:13.390530+00:00"
